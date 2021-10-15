@@ -74,5 +74,3 @@ test_loss, test_acc = model.evaluate(test_images,  test_labels, verbose=2)
 print(test_acc)
 
 
-
-"""Tensorflow and Keras tutorial : https://www.tensorflow.org/tutorials/images/cnn"""
